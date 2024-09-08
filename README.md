@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GautamTanya13
-- 👀 I’m interested in Software Development, photography and travelling
+- 👋 Hi, I’m Tanya Gautam
+- 👀 I’m interested in Software Development, photography, travelling and learning
 - 🌱 I’m currently learning 
 - 💞️ I'm eager to collaborate on any exciting project, whether it aligns with my current skills or offers opportunities to learn something new
 - 📫 Reach me on linkedIn: www.linkedin.com/in/gautamt11 || email: gautamt@uwindsor.ca || insta: https://www.instagram.com/taannnyyyyaaaaaa?igsh=MWx5bTRhYXhidmY3ZA%3D%3D&utm_source=qr
