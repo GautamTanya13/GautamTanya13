@@ -39,8 +39,7 @@ LinkedIn: www.linkedin.com/in/gautamt11
 
 ## Lets Connect:
 
-Please feel free to reach out to me via email or LinkedIn!
-
+Please feel free to reach out to or collaboration or just a friendly chat.
 <!---
 GautamTanya13/GautamTanya13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
