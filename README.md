@@ -31,13 +31,13 @@
 - Methodologies: SDLC (Agile, Scrum)
 
 
-##Contact Me:
+## Contact Me:
 
 Email: gautamt@uwindsor.ca / tanya13nov@yahoo.in
 
 LinkedIn: www.linkedin.com/in/gautamt11
 
-##Lets Connect:
+## Lets Connect:
 
 Please feel free to reach out to me via email or LinkedIn!
 
