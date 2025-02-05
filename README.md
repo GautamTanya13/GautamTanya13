@@ -1,7 +1,7 @@
 # Hi There! I am Tanya Gautam. It is great to see you here.
 
 
-## A Little About Me:
+## A Little About Me
 
 -  Recently completed my Masters in Applied Computing from University of Windsor.
     
@@ -31,13 +31,13 @@
 - Methodologies: SDLC (Agile, Scrum)
 
 
-## Contact Me:
+## Contact Me
 
 Email: gautamt@uwindsor.ca / tanya13nov@yahoo.in
 
 LinkedIn: www.linkedin.com/in/gautamt11
 
-## Lets Connect:
+## Lets Connect
 
 Please feel free to reach out to or collaboration or just a friendly chat.
 <!---
