@@ -1,3 +1,6 @@
+Hi There! I am Tanya
+
+
 - 👋 Hi, I’m Tanya Gautam
 - 👀 I’m interested in Software Development, photography, travelling and learning
 - 🌱 I’m currently learning 
