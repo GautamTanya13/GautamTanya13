@@ -3,30 +3,30 @@
 
 ## A Little About Me
 
+-  Worked as a Product Manager at MM Nova Tech.
+
 -  Recently completed my Masters in Applied Computing from University of Windsor.
     
 -  Completed my Co-op at CanPR as a software engineer intern.
 
--  Full Stack Developer with 2 years of experience.
+-  Full Stack Developer with 2+ years of experience at Accenture.
 
 -  Passionate and result oreinted, open for innovative projects.
-
--  Seeking Full-time job oppurtunities.
 
 
 ## Skills
 
-- Programming Languages: Python, Django, Java, JavaScript, C++, C.
+- Programming Languages: Python, Java, JavaScript, C++, C.
 
 - Database System and Management: MySQL, PL/SQL, MSSQL, MongoDB, Oracle
 
 - Frameworks: Dajngo, Reactjs, NextJS
 
-- Markup Languages: HTML, CSS, XML
+- Markup Languages: HTML, CSS, XML, YAML
 
-- Operating Systems: Windows, UNIX, LINUX
+- Operating Systems: Windows, UNIX, LINUX, MacOS
 
-- Software Applications: MS Office Suite, Google Suite, Visual Studio, GitHub, PyCharm
+- Software Applications: MS Office Suite, Google Suite, Visual Studio Code, GitHub, PyCharm
 
 - Methodologies: SDLC (Agile, Scrum)
 
